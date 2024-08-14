@@ -1,8 +1,9 @@
 <h2 align=center>Hi there 👋 I'm Ashutosh 👨‍💻</h2>
 
 <h3 align=center>🔭 What I do: </h3>
-<p align=center>
-  I'm working as a Software Engineer at [@fylein](https://github.com/fylein)
+
+<p align='center'>
+  I'm working as a Software Engineer at <a href="https://github.com/fylein">@fylein</a>
 </p>
 
 <h3 align=center>📫 How to reach me:</h3>
@@ -29,8 +30,8 @@
 
 <p align=center>
   
-![Ashutosh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=muleyashutosh&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=muleyashutosh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muleyashutosh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![Ashutosh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=muleyashutosh&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=muleyashutosh&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muleyashutosh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </p>
