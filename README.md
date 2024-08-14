@@ -21,17 +21,16 @@
 <h3 align=center>🏆 Trophies:</h3>
 
 <p align=center>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=muleyashutosh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=muleyashutosh&theme=onedark" alt-text="trophy"/>
+  </a>
 </p> 
 
 <h3 align=center>📊 GitHub Stats:</h3>
 
 <p align=center>
-  
-  ![Ashutosh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=muleyashutosh&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=muleyashutosh&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muleyashutosh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muleyashutosh&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt-text="Ashutosh's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muleyashutosh&theme=dark&hide_border=false" alt-text=""/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muleyashutosh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt-text=""/>
 </p>
