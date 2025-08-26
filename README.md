@@ -11,13 +11,12 @@
 <p align=center>
   <a href="https://www.linkedin.com/in/muleyashutosh/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
+  </a>
   <a href="https://x.com/muley_ashu/">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
-
+<!--
 <h3 align=center>🏆 Trophies:</h3>
 
 <p align=center>
@@ -25,6 +24,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=muleyashutosh&theme=onedark" alt-text="trophy"/>
   </a>
 </p> 
+-->
 
 <h3 align=center>📊 GitHub Stats:</h3>
 
